@@ -23,3 +23,7 @@ __pycache__/
 *.0
 *.geojson
 *.json
+venvi/
+*.las
+*.laz
+*.lidata
