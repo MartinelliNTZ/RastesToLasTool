@@ -25,10 +25,10 @@ INSTALAÇÃO:
 # CONFIGURAÇÃO – altere apenas esta seção
 # ================================================================
 
-ORTHO  = r"D:\TESTES_PYTHON\RASTER_TO_LAS\Ortomosaico.tif"
+ORTHO  = r"D:\TESTES_PYTHON\RASTER_TO_LAS\Ortomosaico2.tif"
 DSM    = r"D:\TESTES_PYTHON\RASTER_TO_LAS\ImanuMDS.tif"
-CLASS  = r"D:\TESTES_PYTHON\RASTER_TO_LAS\classificado.tif"
-OUTPUT = r"D:\TESTES_PYTHON\RASTER_TO_LAS\IMARU_NUVEM_COMPLETA_final.las"
+CLASS  = r"D:\TESTES_PYTHON\RASTER_TO_LAS\classificado2.tif"
+OUTPUT = r"D:\TESTES_PYTHON\RASTER_TO_LAS\IMARU_teste_rtl6.las"
 
 BLOCK_SIZE = 1024*8        # pixels por bloco (reduza se faltar RAM)
 
